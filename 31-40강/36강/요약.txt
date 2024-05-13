@@ -25,3 +25,9 @@ hope 는 희망
 expect는 객관적 근거에 기반한 예상
 
 work out - 세부적인 것을 조율하다 / 정하다
+
+I'll have it taken care of 와 "I'll have it done"은 비슷한 의미를 가지고 있습니다. 두 문장 모두 어떤 일이나 문제를 처리하고 해결할 것이라는 의미를 전달합니다. 다만 "taken care of"은 조금 더 세부적으로 어떤 일을 처리하고 관리할 것이라는 뉘앙스를 담고 있고, "done"은 단순히 일을 완료할 것이라는 의미를 강조합니다.
+
+can you have it done and on my desk by tommorow. 에서 and 왜 쓰인거야?
+
+네, 그렇습니다. "And"는 일반적으로 같은 품사를 연결하는 접속사로 사용됩니다. 하지만 종종 서로 다른 품사를 연결할 때도 사용될 수 있습니다. 예를 들어, "have it done"는 동사구이고, "on my desk by tomorrow"는 전치사구입니다. 이 경우 "and"는 두 구를 연결하여 하나의 완전한 명제로 만듭니다. 종종 문장에서 서로 다른 품사의 구를 연결하기 위해 "and"가 사용됩니다.
