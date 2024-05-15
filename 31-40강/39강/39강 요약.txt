@@ -8,3 +8,5 @@ anyway - 문장 마지막에 쓰면 어쨋든 이라는 뜻
 
 top up - 0~100 사이에서 양이 줄이든걸 다시 채우는 행위
 u want me to top up your water? - 물 좀 채워드릴까요?
+
+account for - 차지하다
