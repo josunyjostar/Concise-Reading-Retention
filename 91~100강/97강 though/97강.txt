@@ -2,3 +2,12 @@
 몸 상태 안좋을때 well 씀 good은 정신/감정상태 표현시 사용
 i'm not feeling well though
 
+두 문장의 차이
+What should we watch this weekend?
+이번 주말에 우리가 무엇을 봐야 할까?
+What should we watch for this weekend?
+이번 주말을 위해 우리가 무엇을 봐야 할까?
+
+주요 차이점:
+첫 번째 문장은 "for"가 없어 더 일반적이고 직접적입니다.
+두 번째 문장은 "for"를 포함하여 주말을 위한 준비나 계획의 뉘앙스가 있습니다.
