@@ -1,24 +1,60 @@
 
-go off 떠나다 went off 떠낫다
+go off 떠나다 went off 떠낫다 go by 들리다 
+buy 대신 go with (여러가지 선택지중) 이걸로 가겟다
+put away 제자리에 두다 pull out 회수하다 
+Look out after 돌보다  live off ~에 의존하며 생활하다
 
+lead 우위 built upon: ~을 바탕으로 발전시키다
+tank: 급격히 하락하다 
+in terms of: ~에 관하여 as to ~에 관하여 (as to 뒤 명사,구,절 동명사 to부정사 위치 가능)
+break into: 진입하다  come along - 등장하다, 발전하다
+set out - 시작하다, 착수하다 catch up - 따라잡다
+drum up - (지지나 관심을) 불러일으키다 outbid - 더 높은 가격을 제시하다
+play catchup - 따라잡기 위해 노력하다 slurp in 흡수하다 
+hold up 유효하다 come down (가격을) 깍다
+catch on 널리 보급되다 caught on 보편화되다 
+leveraged 활용하다 set out 착수하다 / 나서다 
+
+constraints 제약조건 gaping holes 빈틈
+feasible 실행가능한 reimplement : 재구현하다 
+backfire 역효과를 내다  impose: 강요하다
+deem ~로 여기다  whimper 칭얼대다 
+flop : 실패하다  Propagate: 전파하다 
+breach 침해하다 emulate 모방하다 
+outbid 제시하다 shrink 줄어들다 
+erode 침식하다 precedent 선례
+commentator 해설자 
+
+unraveled 해체되는 
+technical sense 기술적 의미 sense가 의미
+bidding war 입찰전쟁 
+quirk 특이점
+lock-in 고착화 
+backfire 역효과 
+compatible 호환되는 
+Intellectual property 지적재산권
+Inception : 시작단계
+Momentum : 성장동력
+Existential risk : 존재적 위험
+Capital intensive: 자본집약적인
+arguably: 틀림없이
+moat: 진입장벽
+backwards compatibility: 하위호환성
 wrist 손목
-
-herd 무리 
-
-Look out after 돌보다 
-
-odds 확률 가능성
-
-slimmer 더 낮은 더 적은
-
-whimper 칭얼대다 
-
+herd 무리 (군)
+odds 확률, 가능성
+slimmer 더 낮은, 더 적은
 input 의견
-
-pull out 회수하다 
-
 crooked 비뚤어진
-
 nursery 유치한 
-
 Dubious  미심쩍어하는 , 불확실한
+revelation 폭로 , 비밀스런 이야기 
+horny 흥분한
+matrimony 결혼
+authority 권한 
+institution 기관 
+proprietary 특허의 
+computation 연산
+
+
+
