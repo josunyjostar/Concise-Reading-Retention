@@ -1,8 +1,9 @@
 how did it go? 어떻게 됬어?
 it's the thought that counts 중요한 것은 생각입니다.
 are you through with that? 다 마셧지?
-
-
+assuming you have a good compiler infrastructure. 좋은 컴파일러 인프라스트럭처가 있다고 가정할 때.
+given the technical details of what it's actually accomplishing. 실제 수행되고있는 기술적 요소를 고려하면 
+However all that said and done. 하지만 그 모든 것을 고려했을 때. said and done (관용구)
 He walked me to the subway  날 지하철까지 데려다줫어
 
 let's say I bought a really great pair of shoes. 내가 진짜 좋은 신발을 삿다고 치자 
