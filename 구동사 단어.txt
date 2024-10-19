@@ -1,23 +1,28 @@
-
+As of ~시점을 기준으로
 go off 떠나다 went off 떠낫다 go by 들리다 
 buy 대신 go with (여러가지 선택지중) 이걸로 가겟다
 put away 제자리에 두다 pull out 회수하다 
 Look out after 돌보다  live off ~에 의존하며 생활하다
 can out compete 능가하다 are carrying around 짊어지다 
 
+exclusively 오직, 전적으로
+out there 현존하는, 널리 알려진
 lead 우위 built upon: ~을 바탕으로 발전시키다
 tank: 급격히 하락하다  has been involved 관여해왔다
 in terms of: ~에 관하여 as to ~에 관하여 (as to 뒤 명사,구,절 동명사 to부정사 위치 가능)
 break into: 진입하다  come along - 등장하다, 발전하다
-set out - 시작하다, 착수하다 catch up - 따라잡다
+catch up - 따라잡다
 drum up - (지지나 관심을) 불러일으키다 outbid - 더 높은 가격을 제시하다
 play catchup - 따라잡기 위해 노력하다 slurp in 흡수하다 
 hold up 유효하다 come down (가격을) 깍다
 catch on 널리 보급되다 caught on 보편화되다 
-leveraged 활용하다 set out 착수하다 / 나서다 
+leveraged 활용하다 set out 착수하다 / 나서다  / 시작하다
 turn to ~에게 도움을 요청하다
 
-in this instance 이 경우에  dedicated gpus 전용 gpu
+the existing llvm support  기존 llvm 지원
+instruction 명령어
+the common wisdom 일반적 통념
+in this instance 이 경우에  dedicated gpus 전용GPU
 anti-competitive practices 반 경쟁적 관행
 staying power 지속력 vendor locking 벤더 종속
 metrics 지표 based techniques 기반 기술
@@ -51,5 +56,10 @@ matrimony 결혼 authority 권한
 institution 기관  proprietary 특허의 
 computation 연산
 
+자신을 갈고닦는 대부분의 일은 하기 어렵고 힘들지
+하지만 이것은 너를 가치있는 사람으로 만들어 준다는 것을 나는 확신한다 
+
+it can be hard and difficult training yourself everyday
+however i am sure it makes you valuable and being in the spotlight
 
 

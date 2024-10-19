@@ -5,9 +5,11 @@ assuming you have a good compiler infrastructure. 좋은 컴파일러 인프라�
 given the technical details of what it's actually accomplishing. 실제 수행되고있는 기술적 요소를 고려하면 
 However all that said and done. 하지만 그 모든 것을 고려했을 때. said and done (관용구)
 He walked me to the subway  날 지하철까지 데려다줫어
-
+as one commentator put it,  recompiling existing Cuda programs remains perfectly legal
+한 평론가가 말했듯이 recompiling existing Cuda programs remains perfectly legal 
+put it 이 말햇듯이 로 해석됨
 let's say I bought a really great pair of shoes. 내가 진짜 좋은 신발을 삿다고 치자 
-
+or so I gathered 내가 이해한 바로는 
 We're with you. We got it. 그만해 알았들었어
 
 i think that's because it was planed out so well.  잘 계획되어서 그런가 봅니다 / 그래서 그런가 봅니다
