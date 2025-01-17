@@ -1,6 +1,10 @@
 well - 몸의 상태
 good - 마음의 상태
 
+I'm not feeling well. 몸이 좀 아프네 
+i'm really not feeling well. 몸이 너무 안좋아
+i'm not really feeling well. 몸이 좀 안좋아
+
 join somebody for 행사 - 행사에 참여하다
 come down with - 질병에 걸리다
 
