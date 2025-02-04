@@ -1,6 +1,6 @@
 pull out 회수하다 
 Look out after 돌보다  
-
+flyers 전단지
 neat 단정한 
 observation 관찰, 관측 
 As of ~시점을 기준으로
@@ -9,85 +9,113 @@ buy 대신 go with (여러가지 선택지중) 이걸로 가겟다
 put away 제자리에 두다
 live off ~에 의존하며 생활하다
 treat 치료하다 
-
-can out compete 능가하다 are carrying around 짊어지다 
-bust back 강등시키다 renovate 보수하다 수리하다 
-semester 학기 flyers 전단지 designated 지정된 
+compensation 보상
+booklet 책자
+win back - 되찾다 
+semester 학기 
+renovate 보수하다 수리하다 
+designated 지정된 
 bulletin board 게시판 
 purify ~을 정화시키다 
 get involved in ~에 참여하다
 look into ~을 살펴보다 
 lift <-> impose 해제하다 / 제재하다 
 go over - 검토하다
-win back - 되찾다 
-
 put somthing on 장소 ~에 두다 
-put away 제자리에 두다
-compensation 보상
-booklet 책자
 sophomores 대학2학년
 fines 벌금
-mark off 확인하다 
-clean out 지우다 
+be civil 예의있는 
 incorporate 포함시키다
-
-
-cover stories 이야기를 취재하다 
 put up 내붙이다(게시하다)
 promote (향상 증진 의미가 들어간) 돕다 - 문장을 더 간결하게 만들어주는 역할이 잇음
-be civil 예의있는 fell out 사라지다
 exclusively 오직, 전적으로
-out there 현존하는, 널리 알려진
-lead 우위 built upon: ~을 바탕으로 발전시키다
-tank: 급격히 하락하다  has been involved 관여해왔다
-in terms of: ~에 관하여 as to ~에 관하여 (as to 뒤 명사,구,절 동명사 to부정사 위치 가능)
-break into: 진입하다  come along - 등장하다, 발전하다
+lead 우위 
+tank: 급격히 하락하다  
+has been involved 관여해왔다
+in terms of: ~에 관하여 
+as to ~에 관하여 (as to 뒤 명사,구,절 동명사 to부정사 위치 가능)
+come along - 등장하다, 발전하다
 catch up - 따라잡다
-drum up - (지지나 관심을) 불러일으키다 outbid - 더 높은 가격을 제시하다
-play catchup - 따라잡기 위해 노력하다 slurp in 흡수하다 
-hold up 유효하다 come down (가격을) 깍다
-catch on 널리 보급되다 caught on 보편화되다 
-leveraged 활용하다 set out 착수하다 / 나서다  / 시작하다
-turn to ~에게 도움을 요청하다
-
-the existing llvm support  기존 llvm 지원
+drum up - (지지나 관심을) 불러일으키다
+outbid - 더 높은 가격을 제시하다
+come down (가격을) 깍다
 instruction 명령어
 the common wisdom 일반적 통념
-in this instance 이 경우에  dedicated gpus 전용GPU
+dedicated gpus 전용GPU
+in this instance 이 경우에  
 anti-competitive practices 반 경쟁적 관행
-staying power 지속력 vendor locking 벤더 종속
-metrics 지표 based techniques 기반 기술
-constraints 제약조건 gaping holes 빈틈
-feasible 실행가능한 reimplement : 재구현하다 
-backfire 역효과를 내다  impose: 강요하다
-deem ~로 여기다  whimper 칭얼대다 
-flop : 실패하다  Propagate: 전파하다 
-breach 침해하다 emulate 모방하다 
-outbid 제시하다 shrink 줄어들다 
-erode 침식하다 precedent 선례
+staying power 지속력 
+vendor locking 벤더 종속
+metrics 지표 
+based techniques 기반 기술
+gaping holes 빈틈
+constraints 제약조건 
+feasible 실행가능한 
+reimplement : 재구현하다 
+backfire 역효과를 내다  
+impose: 강요하다
+deem ~로 여기다  
+whimper 칭얼대다 
+flop : 실패하다  
+Propagate: 전파하다 
+breach 침해하다 
+emulate 모방하다 
+outbid 제시하다 
+shrink 줄어들다 
+erode 침식하다 
+precedent 선례
 commentator 해설자 
-
-unraveled 해체되는 
-technical sense 기술적 의미 sense가 의미
-bidding war 입찰전쟁 
-quirk 특이점 lock-in 고착화 
-backfire 역효과  compatible 호환되는 
-Intellectual property 지적재산권
-Inception : 시작단계 Momentum : 성장동력
-Existential risk : 존재적 위험
-Capital intensive: 자본집약적인
-arguably: 틀림없이 moat: 진입장벽
-backwards compatibility: 하위호환성
-wrist 손목 herd 무리 (군)
-odds 확률, 가능성 slimmer 더 낮은, 더 적은
-input 의견 crooked 비뚤어진
-nursery 유치한  Dubious  미심쩍어하는 , 불확실한
-revelation 폭로 , 비밀스런 이야기  horny 흥분한
-matrimony 결혼 authority 권한 
-institution 기관  proprietary 특허의 
-computation 연산 intel 정보 
-pollutants 오염물질들 
-
-mark off 확인하다 
 cut back on production 생산을 줄이다 
-
+put up with  - 참다 견디다(부정적인 것을)
+sense 의미
+technical sense 기술적 의미 
+bidding war 입찰전쟁 
+compatible 호환되는 
+Intellectual property 지적재산권
+Capital intensive: 자본집약적인
+moat: 진입장벽
+backwards compatibility: 하위호환성
+authority 권한 
+Inception : 시작단계 
+Existential risk : 존재적 위험
+arguably: 틀림없이 
+wrist 손목 
+herd 무리 (군)
+odds 확률, 가능성 
+crooked 비뚤어진
+nursery 유치한  
+Dubious  미심쩍어하는 , 불확실한
+revelation 폭로 , 비밀스런 이야기  
+horny 흥분한
+matrimony 결혼 
+institution 기관  
+proprietary 특허의 
+computation 연산 
+pollutants 오염물질들 
+-------------------------------------------------------------------------
+fell out 사라지다
+can out compete 능가하다 
+are carrying around 짊어지다 
+bust back 강등시키다 
+mark off 확인하다 
+clean out 지우다 
+cover stories 이야기를 취재하다 
+out there 현존하는, 널리 알려진
+built upon: ~을 바탕으로 발전시키다
+break into: 진입하다  
+play catchup - 따라잡기 위해 노력하다
+slurp in 흡수하다 
+hold up 유효하다
+catch on 널리 보급되다 caught on 보편화되다 
+leverage 활용하다
+set out 착수하다 / 나서다  / 시작하다
+the existing llvm support  기존 llvm 지원
+turn to ~에게 도움을 요청하다
+mark off 확인하다 
+quirk 특이점 
+lock-in 고착화 
+unraveled 해체되는 
+slimmer 더 낮은, 더 적은
+input 의견 
+Momentum : 성장동력
+intel 정보 
