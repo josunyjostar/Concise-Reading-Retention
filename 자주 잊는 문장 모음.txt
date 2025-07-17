@@ -111,12 +111,12 @@ I'd recommend against it. - 'd 는 would 이고 화자의 의지가 들어감 / 
 아직 공부하고 있는 거야? 몇 시간째야. 계속 안 쉬고 하는 거야?
 are you still studying? is's been hours? have you been working this whole time?
 ---------------------------------------------------------------------------------------------------------------------
-나 소설 쓰는 거 알지? do you know that novel i've working on
+나 소설 쓰는 거 알지? do you know that novel i've working on.
 일이 잘 풀리고 있어요 things are going pretty well.
-좀 더 시간을 들였어야 했어요. i wish i had spent more time on it 
+좀 더 시간을 들였어야 했어요. i wish i had spent more time on it.
 기분이 좋아진다 it puts me in a good mood.
 
-그렇게는 안됩니다 it dosen't work that way
+그렇게는 안됩니다 it dosen't work that way.
 your english sounds good to me. in fact i think you are probably better at english than anyone i know.
 잘 기억이 안나 it doesnt ouccur to me.
 차라리 이케아에서 소파 사는 게 더 나을 듯합니다 you would be better off going to ikea and getting a couch there.
@@ -133,6 +133,7 @@ i totally believe he has what it takes to be a good coah.
 사용하는데는 여전히 어려움을 가지고 있어요 익숙해지려면 시간이 필요할 것 같아요.
 i still have trouble using it. i'm afraid it may take some time to get used to.
 세부 내용은 아직 정하지 못한 상태입니다. we dont have the details worked out.
+콘서트 시작까지 2시간 남았어요 we are only two hours away from the concert getting started
 
 계속 운영되기 위해 자금을 조달할 수 없었다
 it was unable to get financing to remain open.
